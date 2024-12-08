@@ -1,0 +1,35 @@
+Detailed Description for Level 1 Task 2: Landing Page Development
+
+In this task, you will create a professional and responsive landing page using HTML and CSS, showcasing your ability to design a visually appealing and functional single-page website. The landing page is typically designed to promote a product, service, or personal brand and includes the following components:
+
+Landing Page Features
+Header Section
+
+Includes a navigation bar with links to key sections (e.g., Home, Features, Pricing, Contact).
+Displays the brand name or logo prominently.
+Can feature a call-to-action (CTA) button such as "Sign Up" or "Learn More."
+Hero Section
+
+A visually appealing banner or hero image grabs the visitor’s attention.
+Includes a headline that clearly states the product or service's value proposition.
+Features a subheading with additional details and a CTA button (e.g., "Get Started").
+Features Section
+
+Highlights key features or benefits of the product or service, presented in a grid or column format.
+Includes icons or images to visually represent features.
+Testimonials Section (Optional)
+
+Showcases user reviews or testimonials to build credibility.
+Includes customer names, photos, and ratings for authenticity.
+Pricing Section (Optional)
+
+Provides a clear pricing table with different plans or packages.
+Highlights the most popular plan with a "Recommended" tag.
+Contact Section
+
+Provides a contact form with fields like name, email, and message.
+Displays your contact details (email and phone number) and links to social media profiles.
+Footer Section
+
+Includes a copyright notice, social media links, and any disclaimers.
+Optionally adds a newsletter subscription form.
